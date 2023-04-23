@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: #2BAE66; color: #FCF6F5}
+h1 {color: white; text-align: center;}
+</style>
+</head>
+<body>
+<h1>프로젝트 주제 및 내용 발표</h1>
+<p style="text-align:right">20161462 이지원</p>
+<p>목차</p>
+<ol>
+    <li>수강(예정)과목</li>
+    <li>학기말 프로젝트 수행내역</li>
+    <li>자격증</li>
+    <li>기타 계획</li>
+</ol>
+</body>
+</html>
