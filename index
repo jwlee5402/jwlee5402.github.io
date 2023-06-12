@@ -1,0 +1,168 @@
+<!doctype html> <!-- index.html -->
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>리스트 예제</title></head>
+  <body>
+    <h3 id="aList">폴더를 정리한 관계로 제출한 과제와 주소가 다를 수 있음</h3>
+    <ul style="list-style-type:circle">
+      <li> 1주차
+        <ol>
+          <li>jwlee5402.github.io/html5/basicHtml.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 2주차
+        <ol>
+          <li>jwlee5402.github.io/2/def.html</li>
+          <li>jwlee5402.github.io/2/Element.html</li>
+          <li>jwlee5402.github.io/2/loveKorea.html</li>
+          <li>jwlee5402.github.io/2/globalAttribute.html</li>
+          <li>jwlee5402.github.io/2/globalEvent.html</li>
+          <li>jwlee5402.github.io/2/koreaAnthem.html</li>
+          <li>jwlee5402.github.io/2/headBasic.html</li>
+          <li>jwlee5402.github.io/2/bodyBasic.html</li>
+          <li>jwlee5402.github.io/2/koreaAnthem3.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 3주차
+        <ol>
+          <li>jwlee5402.github.io/3/basicHeading.html</li>
+          <li>jwlee5402.github.io/3/basicPBrHr.html</li>
+          <li>jwlee5402.github.io/3/basicChar.html</li>
+          <li>jwlee5402.github.io/3/koreaAnthem4.html</li>
+          <li>jwlee5402.github.io/3/basicList.html</li>
+          <li>jwlee5402.github.io/3/basicDList.html</li>
+          <li>jwlee5402.github.io/3/koreaAnthem5.html</li>
+          <li>jwlee5402.github.io/3/koreaAnthem6.html</li>
+          <li>jwlee5402.github.io/3/basicTable1.html</li>
+          <li>jwlee5402.github.io/3/basicSpan.html (제목 오타, TableSpan)</li>
+          <li>jwlee5402.github.io/3/advTable.html</li>
+          <li>jwlee5402.github.io/3/advTable1.html</li>
+          <li>jwlee5402.github.io/3/tableHw.html</li>
+          <li>jwlee5402.github.io/3/subjectTable1.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 4주차
+        <ol>
+          <li>jwlee5402.github.io/4/divSpan.html</li>
+          <li>jwlee5402.github.io/4/basicPDivSpan.html</li>
+          <li>jwlee5402.github.io/4/basicDiv.html</li>
+          <li>jwlee5402.github.io/4/advDiv.html</li>
+          <li>jwlee5402.github.io/4/basicSemantic.html</li>
+          <li>jwlee5402.github.io/4/basicModel.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 5주차
+        <ol>
+          <li>jwlee5402.github.io/5/anchor1.html</li>
+          <li>jwlee5402.github.io/5/advAnchor.html</li>
+          <li>jwlee5402.github.io/5/basicSemantic1.html</li>
+          <li>jwlee5402.github.io/5/basicImage.html</li>
+          <li>jwlee5402.github.io/5/basicSemantic2.html</li>
+          <li>jwlee5402.github.io/5/imageMap.html</li>
+          <li>jwlee5402.github.io/5/DJUCampusMap.html</li>
+          <li>jwlee5402.github.io/5/WorldMapCapitalCity.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 6주차
+        <ol>
+          <li>jwlee5402.github.io/6/basicAudio.html</li>
+          <li>jwlee5402.github.io/6/basicVideo.html</li>
+          <li>jwlee5402.github.io/6/basicSemantic3.html</li>
+          <li>jwlee5402.github.io/6/anchor2.html</li>
+          <li>jwlee5402.github.io/6/formFieldset1.html</li>
+          <li>jwlee5402.github.io/6/formText1.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 7주차 (부분 제출)
+        <ol>
+          <li>jwlee5402.github.io/7/formRadio1.html</li>
+          <li>jwlee5402.github.io/7/formCheckbox1.html</li>
+          <li>jwlee5402.github.io/7/formSearch1.html</li>
+          <li>jwlee5402.github.io/7/formDateTime1.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 9주차 (부분 제출)
+        <ol>
+          <li>jwlee5402.github.io/9/basicCssIntro1.html</li>
+          <li>jwlee5402.github.io/9/basicSimple1.html</li>
+          <li>jwlee5402.github.io/9/inline1.html</li>
+          <li>jwlee5402.github.io/9/embed1.html</li>
+          <li>jwlee5402.github.io/9/sampleDom.html</li>
+          <li>jwlee5402.github.io/9/memberl.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 10주차
+        <ol>
+          <li>jwlee5402.github.io/10/complexBro.html</li>
+          <li>jwlee5402.github.io/10/complexChild.html</li>
+          <li>jwlee5402.github.io/10/complexDesc.html</li>
+          <li>jwlee5402.github.io/10/pseudoelmt.html</li>
+          <li>jwlee5402.github.io/10/pseudoselector.html</li>
+          <li>jwlee5402.github.io/10/selectorcls.html</li>
+          <li>jwlee5402.github.io/10/selectorid.html</li>
+          <li>jwlee5402.github.io/10/selectortag.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 11주차 (시간에 맞추지 못해 12주차에 제출)
+        <ol>
+          <li>jwlee5402.github.io/11/cssText1.html</li>
+          <li>jwlee5402.github.io/11/cssText2.html</li>
+          <li>jwlee5402.github.io/11/cssFont1.html</li>
+          <li>jwlee5402.github.io/11/csswidthHeight1.html</li>
+          <li>jwlee5402.github.io/11/cssBg1.html</li>
+          <li>jwlee5402.github.io/11/cssBorder1.html</li>
+          <li>jwlee5402.github.io/11/cssMargin1.html</li>
+          <li>jwlee5402.github.io/11/cssPadding1.html</li>
+          <li>jwlee5402.github.io/11/cssBox1.html</li>
+          <li>jwlee5402.github.io/11/cssBox2.html</li>
+          <li>jwlee5402.github.io/11/cssBox3.html</li>
+          <li>jwlee5402.github.io/11/cssBox4.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 12주차 (미제출)
+      </li>
+      <hr />
+      <li> 13주차 (부분 제출, 실수로 인해 누락됨)
+        <ol>
+          <li>jwlee5402.github.io/13/cssList1.html</li>
+          <li>jwlee5402.github.io/13/cssList2.html</li>
+          <li>jwlee5402.github.io/13/login1.html</li>
+          <li>jwlee5402.github.io/13/login2.html</li>
+          <li>jwlee5402.github.io/13/login3.html</li>
+          <li>jwlee5402.github.io/13/login4.html</li>
+          <li>jwlee5402.github.io/13/login5.html</li>
+          <li>jwlee5402.github.io/13/memb1.html</li>
+          <li>jwlee5402.github.io/13/memb2.html</li>
+          <li>jwlee5402.github.io/13/memb3.html</li>
+          <li>jwlee5402.github.io/13/memb4.html</li>
+          <li>jwlee5402.github.io/13/memb5.html</li>
+        </ol>
+      </li>
+      <hr />
+      <li> 14주차 (지난주 누락된 부분 추가 제출)
+        <ol>
+          <li>jwlee5402.github.io/13/cssTable1.html</li>
+          <li>jwlee5402.github.io/13/cssTable2.html</li>
+          <li>jwlee5402.github.io/13/cssTable3.html</li>
+          <li>jwlee5402.github.io/13/cssTable4.html</li>
+          <li>jwlee5402.github.io/14/rwd0.html</li>
+          <li>jwlee5402.github.io/14/rwd1.html</li>
+          <li>jwlee5402.github.io/14/rwd2.html</li>
+          <li>jwlee5402.github.io/14/rwd4.html</li>
+        </ol>
+      </li>
+    </ul><hr/>
+    </body>
+</html>
